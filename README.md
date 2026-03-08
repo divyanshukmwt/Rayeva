@@ -26,7 +26,7 @@ Two fully implemented AI modules for the Rayeva B2B sustainable commerce platfor
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/divyanshukmwt/Rayeva
 cd rayeva-ai-modules
 npm install
 ```
